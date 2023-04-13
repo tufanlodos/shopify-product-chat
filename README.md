@@ -1,4 +1,4 @@
-# Shopify Product Chat
+# Shopify Product Chat
 
 - This is a ready to use API project to use ChatGPT on existing Shopify shop for asking questions about products.
 
