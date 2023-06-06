@@ -1,6 +1,6 @@
 # Shopify Product Chat
 
-- This is a ready to use Node.js REST API project to use ChatGPT on existing Shopify shop for asking questions about products.
+- This is a ready to use Node.js REST API project to use ChatGPT (through OpenAI API) on existing Shopify shop for asking questions about products.
 
 ### How?
 
